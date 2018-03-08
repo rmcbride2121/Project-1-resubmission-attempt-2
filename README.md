@@ -1,1 +1,1 @@
-# Project-1-resubmission-attempt-2
+# Techdegree Project 1 - Static Web Page
